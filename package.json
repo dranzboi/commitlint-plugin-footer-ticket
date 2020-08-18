@@ -1,0 +1,21 @@
+{
+  "name": "commitlint-plugin-lastline",
+  "version": "1.0.0",
+  "description": "Adds additional rule to footer last line according regexp pattern.",
+  "main": "index.js",
+  "keywords": [
+    "commitlint",
+    "commitlintplugin",
+    "conventional-commits"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dranzboi/commitlint-plugin-lastline.git"
+
+  },
+  "author": "dranzboi",
+  "license": "MIT",
+  "peerDependencies": {
+    "@commitlint/lint": ">=7.6.0"
+  }
+}
